@@ -11,7 +11,7 @@ Especialidad de Introducción a la Programación
 
 [Inicio](#Master-int-program)
 
-[¿Qué es un lenguaje de programación?](#¿qué-es-un-lenguaje-de-programación?)
+[¿Qué es un lenguaje de programación?](#Qué-es-un-lenguaje-de-programación)
 ~~~~
  Markdown
 : Herramienta de conversión de texto plano a HTML.
