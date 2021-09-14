@@ -3,10 +3,12 @@ Title: Guía para el curso de inicialización a la Programación
 Author: Iván López (Webmasterbrak)
 
 Date: 14 de septiembre de 2021
-# master-int-program
+# Master-int-program
 Especialidad de Introducción a la Programación
 
-[link](#Multimarkdown)
+### Menu de navegación
+
+[¿Qué es un lenguaje de programación?](#Markdown)
 ~~~~
  Markdown
 : Herramienta de conversión de texto plano a HTML.
@@ -42,5 +44,5 @@ Incluso crear varios párrafos, ya que la nota siempre irá al final del documen
 
 [^nombreDeTuNota]: Aquí irá el texto de tu nota.
 
-# Multimarkdown
+### Markdown
 : Lenguaje de marcado que añade características a las carencias de su hermano Markdown (tablas, notas al pie de página, listas de definiciones como esta…)
