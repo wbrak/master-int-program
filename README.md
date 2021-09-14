@@ -6,7 +6,7 @@ Date: 14 de septiembre de 2021
 # master-int-program
 Especialidad de Introducción a la Programación
 
-[Link to anchors](#Multimarkdown)
+[link](#Multimarkdown)
 ~~~~
  Markdown
 : Herramienta de conversión de texto plano a HTML.
