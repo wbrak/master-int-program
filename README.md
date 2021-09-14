@@ -9,7 +9,7 @@ Especialidad de Introducción a la Programación
 ---
 ### Contenidos del master
 
-[Inicio](#Master-int-program)
+[Inicio](#Master-Introducción-a-la-Programación)
 
 [¿Qué es un lenguaje de programación?](#Qué-es-un-lenguaje-de-programación)
 
