@@ -8,7 +8,7 @@ Especialidad de Introducción a la Programación
 
 ### Menu de navegación
 
-[¿Qué es un lenguaje de programación?](#¿Qué es un lenguaje de programación?)
+[¿Qué es un lenguaje de programación?](#Menu1)
 ~~~~
  Markdown
 : Herramienta de conversión de texto plano a HTML.
@@ -44,5 +44,5 @@ Incluso crear varios párrafos, ya que la nota siempre irá al final del documen
 
 [^nombreDeTuNota]: Aquí irá el texto de tu nota.
 
-### ¿Qué es un lenguaje de programación?
+### Menu1
  Lenguaje de marcado que añade características a las carencias de su hermano Markdown (tablas, notas al pie de página, listas de definiciones como esta…)
