@@ -3,11 +3,11 @@ Title: Guía para el curso de inicialización a la Programación
 Author: Iván López (Webmasterbrak)
 
 Date: 14 de septiembre de 2021
-# Master-int-program
+# Master Introducción a la Programación
 Especialidad de Introducción a la Programación
 
 ---
-### Menu de navegación
+### Contenidos del master
 
 [Inicio](#Master-int-program)
 
