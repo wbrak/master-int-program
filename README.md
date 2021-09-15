@@ -1,5 +1,5 @@
 Title: Guía para el master de introducción a la programación  
-Author: Iván López (Webmasterbrak)  
+Author: Iván López ([Webmasterbrak](https://www.informaticocoruna.com))
 Date: 14 de septiembre de 2021
 # Master Introducción a la Programación
 El presente master de introducción a la programación esta desarrollado siguiendo varios cursos y lenguajes distintos, es el resultado de la recopilación y estructuración de los contenidos que tenia dispersos.
