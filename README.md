@@ -1,19 +1,42 @@
-Title: Guía para el curso de inicialización a la Programación
-
-Author: Iván López (Webmasterbrak)
-
+Title: Guía para el master de introducción a la programación  
+Author: Iván López (Webmasterbrak)  
 Date: 14 de septiembre de 2021
 # Master Introducción a la Programación
-Especialidad de Introducción a la Programación
-
----
+El presente master de introducción a la programación esta desarrollado siguiendo varios cursos y lenguajes distintos, es el resultado de la recopilación y estructuración de los contenidos que tenia dispersos.
+Espero que te sea de ayuda e inspiración.
 ### Contenidos del master
+1º. Curso de introducción a la programación
+- [¿Qué es la programación?](#Qué-es-la-programación)
+- [¿Qué es un lenguaje de programación?](#Qué-es-un-lenguaje-de-programación)
+- [Lenguajes de bajo y alto nivel](#Lenguajes-de-bajo-y-alto-nivel)
+- [Lenguajes interpretados y compilados](#Lenguajes-interpretados-y-compilados)
 
-[Inicio](#Master-Introducción-a-la-Programación)
+2º. Curso de introducción a los algoritmos
+- [Inicio](#Master-Introducción-a-la-Programación)
 
-[¿Qué es un lenguaje de programación?](#Qué-es-un-lenguaje-de-programación)
+### ¿Qué es la programación?
+Es el proceso de diseñar, codificar, depurar y mantener el codigo fuente de un programa.
+Es el arte que nos permite reflejar en codigo las multiples soluciónes para resolver un problema.
 
-[Lenguajes de bajo y alto nivel](#Lenguajes-de-bajo-y-alto-nivel)
+### ¿Qué es un lenguaje de programación?
+Es un lenguaje que contiene reglas expecificas que nos premiten realizar o controlar ciertas acciones en una computadora. Es el puente de comunicación entre la maquina y la persona, despues entra en juego el compilador o el interprete que permite traducir lo escrito a lenguaje maquina (binario, 1 y 0).
+Existen los lenguajes de bajo nivel y de alto nivel
+
+### Lenguajes de alto y bajo nivel
+Los lenguajes de alto nivel son más facilmente entendibles por las personas, son portables, legibles y su codigo resulta más facil de mantener. Ej: Python, Php, Ruby, Java o C#.
+
+Los lenguajes de bajo nivel se compilan más rapido y se pude optimizar la memoria, el más conocido es ensamblador y se encargan de traducir a codigo binario.
+
+Existen algunos lenguajes como C, que se encuentran en un nivel medio, no son de bajo nivel ya que su sintaxis es legible aunque se puede manejar de forma facil el hardware de un equipo y permite escribir codigo optimizado. Es por esto que aun se usa para crear cualquier tipo de software.
+
+### Lenguajes interpretados y compilados
+
+
+
+
+
+
+
 ~~~~
  Markdown
 : Herramienta de conversión de texto plano a HTML.
@@ -24,13 +47,3 @@ Especialidad de Introducción a la Programación
 | Contenido 1-1 | Contenido 1-2 | Contenido 1-3 |
 | Contenido 2-1 | Contenido 2-2 | Contenido 2-3 |
 | Contenido 3-1 | Contenido 3-2 | Contenido 3-3 |
-
-Esto es un texto normal que contiene una nota[^nombreDeTuNota]. Puedes escribir tanto como necesites.
-
-Incluso crear varios párrafos, ya que la nota siempre irá al final del documento. En este caso, si haces click serás dirigido al final del artículo (pero puedes volver al punto de lectura fácilmente, ¡haz la prueba!)
-
-### ¿Qué es un lenguaje de programación?
-Es un lenguaje que contiene reglas expecificas que nos premiten realizar o controlar ciertas acciones en una computadora. Es el puente de comunicación entre la maquina y la persona, despues entra en juego el compilador o el interprete que permite traducir lo escrito a lenguaje maquina (binario, 1 y 0).
-Existen los lenguajes de bajo nivel y de alto nivel
-
-### Lenguajes de bajo y alto nivel
