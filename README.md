@@ -2,9 +2,8 @@ Title: Guía para el master de introducción a la programación.
 Author: Iván López ([Webmasterbrak](https://www.informaticocoruna.com))
 Date: 14 de septiembre de 2021
 # Master Introducción a la Programación
-El presente master de introducción a la programación esta desarrollado siguiendo varios cursos y lenguajes distintos, es el resultado de la recopilación y estructuración de los contenidos que tenia dispersos.
-Espero que te sea de ayuda e inspiración.  
-Se realizarán los ejemplos básicos en Python, PHP, JavaScript y C.
+El presente máster de introducción a la programación está desarrollado siguiendo varios cursos y lenguajes distintos, es el resultado de la recopilación y estructuración de los contenidos que tenía dispersos. Espero que te sea de ayuda e inspiración.  
+Se realizarán los ejemplos básicos en Python, PHP, JavaScript y C
 ### Contenidos del master de programación
 1º. Curso de introducción a la programación
 - [¿Qué es la programación?](#Qué-es-la-programación)
@@ -21,18 +20,17 @@ Se realizarán los ejemplos básicos en Python, PHP, JavaScript y C.
 - [Inicio](#Master-Introducción-a-la-Programación)
 
 ### ¿Qué es la programación?
->Es el proceso de diseñar, codificar, depurar y mantener el codigo fuente de un programa.
-Es el arte que nos permite reflejar en codigo las multiples soluciónes para resolver un problema.
+>Es el proceso de diseñar, codificar, depurar y mantener el código fuente de un programa. Es el arte que nos permite reflejar en código las múltiples soluciones para resolver un problema.
 
 ### ¿Qué es un lenguaje de programación?
->Es un lenguaje que contiene reglas expecificas que nos premiten realizar o controlar ciertas acciones en una computadora. Es el puente de comunicación entre la maquina y la persona, despues entra en juego el compilador o el interprete que permite traducir lo escrito a lenguaje maquina (binario, 1 y 0).
+>Es un lenguaje que contiene reglas específicas que nos permiten realizar o controlar ciertas acciones en una computadora. Es el puente de comunicación entre la máquina y la persona, después entra en juego el compilador o el intérprete que permite traducir lo escrito a lenguaje máquina (binario, 1 y 0).  
 Existen los lenguajes de bajo nivel y de alto nivel
 
 ### Lenguajes de alto y bajo nivel
->Los lenguajes de alto nivel son más facilmente entendibles por las personas, son portables, legibles y su codigo resulta más facil de mantener. Ej: Python, Php, Ruby, Java o C#.  
-Los lenguajes de bajo nivel se compilan más rapido y se pude optimizar la memoria, el más conocido es ensamblador y se encargan de traducir a codigo binario.
+>Los lenguajes de alto nivel son más fácilmente entendibles por las personas, son portables, legibles y su código resulta más fácil de mantener. Ej. Python, PHP, Ruby, Java o C#.  
+Los lenguajes de bajo nivel se compilan más rápido y se puede optimizar la memoria, el más conocido es ensamblador y se encargan de traducir a código binario.
 
->Existen algunos lenguajes como C, que se encuentran en un nivel medio, no son de bajo nivel ya que su sintaxis es legible aunque se puede manejar de forma facil el hardware de un equipo y permite escribir codigo optimizado. Es por esto que aun se usa para crear cualquier tipo de software.
+>Existen algunos lenguajes como C, que se encuentran en un nivel medio, no son de bajo nivel, ya que su sintaxis es legible aunque se puede manejar de forma fácil el hardware de un equipo y permite escribir código optimizado. Es por esto que aún se usa para crear cualquier tipo de software.
 
 ### Lenguajes interpretados y compilados
 
