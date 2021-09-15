@@ -14,6 +14,8 @@ Se realizarán los ejemplos básicos en Python, PHP, JavaScript y C.
 - [¿Instalación del entorno de desarrollo?(A desarrollar?????)](#Instalación-del-entorno-de-desarrollo)
 - [Primer Hola Mundo](#Primer-Hola-Mundo)
 - [Constantes y variables](#Constantes-y-variables)
+- [Imprimir datos](#Imprimir-datos)
+- [Leer datos](#Leer-datos)
 
 2º. Curso de introducción a los algoritmos
 - [Inicio](#Master-Introducción-a-la-Programación)
@@ -40,7 +42,9 @@ Los lenguajes de bajo nivel se compilan más rapido y se pude optimizar la memor
 
 ### Constantes y variables
 
+### Imprimir datos
 
+### Leer datos
 
 ~~~~
  Markdown
