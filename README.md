@@ -1,15 +1,19 @@
-Title: Guía para el master de introducción a la programación  
+Title: Guía para el master de introducción a la programación.  
 Author: Iván López ([Webmasterbrak](https://www.informaticocoruna.com))
 Date: 14 de septiembre de 2021
 # Master Introducción a la Programación
 El presente master de introducción a la programación esta desarrollado siguiendo varios cursos y lenguajes distintos, es el resultado de la recopilación y estructuración de los contenidos que tenia dispersos.
-Espero que te sea de ayuda e inspiración.
-### Contenidos del master
+Espero que te sea de ayuda e inspiración.  
+Se realizarán los ejemplos básicos en Python, PHP, JavaScript y C.
+### Contenidos del master de programación
 1º. Curso de introducción a la programación
 - [¿Qué es la programación?](#Qué-es-la-programación)
 - [¿Qué es un lenguaje de programación?](#Qué-es-un-lenguaje-de-programación)
 - [Lenguajes de bajo y alto nivel](#Lenguajes-de-bajo-y-alto-nivel)
 - [Lenguajes interpretados y compilados](#Lenguajes-interpretados-y-compilados)
+- [¿Instalación del entorno de desarrollo?(A desarrollar?????)](#Instalación-del-entorno-de-desarrollo)
+- [Primer Hola Mundo](#Primer-Hola-Mundo)
+- [Constantes y variables](#Constantes-y-variables)
 
 2º. Curso de introducción a los algoritmos
 - [Inicio](#Master-Introducción-a-la-Programación)
@@ -31,9 +35,11 @@ Existen algunos lenguajes como C, que se encuentran en un nivel medio, no son de
 
 ### Lenguajes interpretados y compilados
 
+### ¿Instalación del entorno de desarrollo?
 
+### Primer Hola Mundo
 
-
+### Constantes y variables
 
 
 
