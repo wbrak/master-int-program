@@ -30,7 +30,7 @@ Existen los lenguajes de bajo nivel y de alto nivel
 >Los lenguajes de alto nivel son más fácilmente entendibles por las personas, son portables, legibles y su código resulta más fácil de mantener. Ej. Python, PHP, Ruby, Java o C#.  
 Los lenguajes de bajo nivel se compilan más rápido y se puede optimizar la memoria, el más conocido es ensamblador y se encargan de traducir a código binario.
 
->Existen algunos lenguajes como C, que se encuentran en un nivel medio, no son de bajo nivel, ya que su sintaxis es legible aunque se puede manejar de forma fácil el hardware de un equipo y permite escribir código optimizado. Es por esto que aún se usa para crear cualquier tipo de software.
+>Existen algunos lenguajes como C, que se encuentran en un nivel medio, no son de bajo nivel, ya que su sintaxis es legible y se puede manejar de forma fácil el hardware de un equipo y permite escribir código optimizado. Es por esto que aún se usa para crear cualquier tipo de software.
 
 ### Lenguajes interpretados y compilados
 
