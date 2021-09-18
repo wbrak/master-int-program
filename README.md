@@ -4,8 +4,8 @@ Date: 14 de septiembre de 2021
 # Master Introducción a la Programación
 El presente máster de introducción a la programación está desarrollado siguiendo varios cursos y lenguajes distintos, es el resultado de la recopilación y estructuración de los contenidos que tenía dispersos. Espero que te sea de ayuda e inspiración.  
 Se realizarán los ejemplos básicos en Python, PHP, JavaScript y C ya que son los que conozco en mayor o menor medida.  
-Al ser varios los lenguajes y sistemas operativos que se pueden usar en está guía, no definiremos áqui los entornos de desarrollo, por diversas razones uso tanto Linux como Windows en los desarrollos.  
-Puedes encontrar los distintos entornos para cada lenguaje en este (en construcción) [enlace](https://www.informaticocoruna.com/ejemplo).
+>Al ser varios los lenguajes y sistemas operativos que se pueden usar en está guía, no definiremos áqui los entornos de desarrollo, por diversas razones uso tanto Linux como Windows en los desarrollos.  
+Puedes encontrar los distintos entornos para cada lenguaje en el documento [ENTORNOS.md](https://github.com/wbrak/master-int-program/blob/main/ENTORNOS.md) (en construcción) de este repositorio.
 ### Contenidos del master de programación
 #### 1º. Curso de introducción a la programación.
 En este curso se verán las definiciones de programación, los tipo de lenguajes, y los conceptos básicos de la programación.
@@ -38,8 +38,8 @@ Los lenguajes de bajo nivel se compilan más rápido y se puede optimizar la mem
 Existen algunos lenguajes como C, que se encuentran en un nivel medio, no son de bajo nivel, ya que su sintaxis es legible y se puede manejar de forma fácil el hardware de un equipo y permite escribir código optimizado. Es por esto que aún se usa para crear cualquier tipo de software.
 
 ### Lenguajes interpretados y compilados
-- Interpretados: Hacen uso de un programa llamado interprete para traducir lo escrito al lenguaje maquina además de verificar la sintaxis y estructura del codigo para su correcta ejecución, leé lina por linea y para la ejecución si encuentra errores.
-- Compilados: Hacen uso de un programa llamado complilador para traducir lo escrito al lenguaje maquina además de verificar la sintaxis y estructura del codigo para su correcta ejecución, leé todo el codigo y si está correcto lo compila en un archivo ejecutable.
+- `Interpretados`: Hacen uso de un programa llamado interprete para traducir lo escrito al lenguaje maquina además de verificar la sintaxis y estructura del codigo para su correcta ejecución, leé lina por linea y para la ejecución si encuentra errores.
+- `Compilados`: Hacen uso de un programa llamado complilador para traducir lo escrito al lenguaje maquina además de verificar la sintaxis y estructura del codigo para su correcta ejecución, leé todo el codigo y si está correcto lo compila en un archivo ejecutable.
 
 ### Algoritmos
 Conjunto de reglas ordenadas, definidas y finitas que nos permiten realizar una actividad. Siempre tiene que tener un principio y un fin, pudiendo ser muy simples o muy complejos.
@@ -47,10 +47,10 @@ Conjunto de reglas ordenadas, definidas y finitas que nos permiten realizar una 
 ### Metodologías en programación
 Son una serie de pasos para llegar a un objetivo planteado, es un camino estructurado que nos ayudará a resolver cualquier problema.
 
-- Objetivo: El problema a resolver
-- Algoritmo: La solución al problema
-- Testing: Probar la solución al problema
-- Deploy: Desplegar el algoritmo
+- `Objetivo`: El problema a resolver
+- `Algoritmo`: La solución al problema
+- `Testing`: Probar la solución al problema
+- `Deploy`: Desplegar el algoritmo
 
 ### ¿Instalación del entorno de desarrollo?
 
