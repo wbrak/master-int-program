@@ -25,17 +25,17 @@ En este curso se verán las definiciones de programación, los tipo de lenguajes
 - [Inicio](#Master-Introducción-a-la-Programación)
 
 ### ¿Qué es la programación?
-`Es el proceso de diseñar, codificar, depurar y mantener el código fuente de un programa. Es el arte que nos permite reflejar en código las múltiples soluciones para resolver un problema mediante unos pasos o instrucciones ordenadas.`
+Es el proceso de diseñar, codificar, depurar y mantener el código fuente de un programa. Es el arte que nos permite reflejar en código las múltiples soluciones para resolver un problema mediante unos pasos o instrucciones ordenadas.
 
 ### ¿Qué es un lenguaje de programación?
->Es un lenguaje que contiene reglas específicas que nos permiten realizar o controlar ciertas acciones en una computadora. Es el puente de comunicación entre la máquina y la persona, después entra en juego el compilador o el intérprete que permite traducir lo escrito a lenguaje máquina (binario, 1 y 0).  
+Es un lenguaje que contiene reglas específicas que nos permiten realizar o controlar ciertas acciones en una computadora. Es el puente de comunicación entre la máquina y la persona, después entra en juego el compilador o el intérprete que permite traducir lo escrito a lenguaje máquina (binario, 1 y 0).  
 Existen los lenguajes de bajo nivel y de alto nivel
 
 ### Lenguajes de alto y bajo nivel
->Los lenguajes de alto nivel son más fácilmente entendibles por las personas, son portables, legibles y su código resulta más fácil de mantener. Ej. Python, PHP, Ruby, Java o C#.  
+Los lenguajes de alto nivel son más fácilmente entendibles por las personas, son portables, legibles y su código resulta más fácil de mantener. Ej. Python, PHP, Ruby, Java o C#.  
 Los lenguajes de bajo nivel se compilan más rápido y se puede optimizar la memoria, el más conocido es ensamblador y se encargan de traducir a código binario.
 
->Existen algunos lenguajes como C, que se encuentran en un nivel medio, no son de bajo nivel, ya que su sintaxis es legible y se puede manejar de forma fácil el hardware de un equipo y permite escribir código optimizado. Es por esto que aún se usa para crear cualquier tipo de software.
+Existen algunos lenguajes como C, que se encuentran en un nivel medio, no son de bajo nivel, ya que su sintaxis es legible y se puede manejar de forma fácil el hardware de un equipo y permite escribir código optimizado. Es por esto que aún se usa para crear cualquier tipo de software.
 
 ### Lenguajes interpretados y compilados
 - Interpretados: Hacen uso de un programa llamado interprete para traducir lo escrito al lenguaje maquina además de verificar la sintaxis y estructura del codigo para su correcta ejecución, leé lina por linea y para la ejecución si encuentra errores.
@@ -45,7 +45,7 @@ Los lenguajes de bajo nivel se compilan más rápido y se puede optimizar la mem
 Conjunto de reglas ordenadas, definidas y finitas que nos permiten realizar una actividad. Siempre tiene que tener un principio y un fin, pudiendo ser muy simples o muy complejos.
 
 ### Metodologías en programación
->Son una serie de pasos para llegar a un objetivo planteado, es un camino estructurado que nos ayudará a resolver cualquier problema.
+Son una serie de pasos para llegar a un objetivo planteado, es un camino estructurado que nos ayudará a resolver cualquier problema.
 
 - Objetivo: El problema a resolver
 - Algoritmo: La solución al problema
