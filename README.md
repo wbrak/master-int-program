@@ -5,7 +5,7 @@ Date: 14 de septiembre de 2021
 El presente máster de introducción a la programación está desarrollado siguiendo varios cursos y lenguajes distintos, es el resultado de la recopilación y estructuración de los contenidos que tenía dispersos. Espero que te sea de ayuda e inspiración.  
 Se realizarán los ejemplos básicos en Python, PHP, JavaScript y C ya que son los que conozco en mayor o menor medida.  
 >Al ser varios los lenguajes y sistemas operativos que se pueden usar en está guía, no definiremos áqui los entornos de desarrollo, por diversas razones uso tanto Linux como Windows en los desarrollos.  
-Puedes encontrar los distintos entornos para cada lenguaje en el documento [ENTORNOS.md](https://github.com/wbrak/master-int-program/blob/main/ENTORNOS.md) (en construcción) de este repositorio.
+Puedes encontrar los distintos entornos para cada lenguaje en el documento [ENTORNOS.md](https://github.com/wbrak/master-intro-programing/blob/main/ENTORNOS.md) (en construcción) de este repositorio.
 ### Contenidos del master de programación
 #### 1º. Curso de introducción a la programación.
 En este curso se verán las definiciones de programación, los tipo de lenguajes, y los conceptos básicos de la programación.
