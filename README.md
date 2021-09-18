@@ -3,12 +3,13 @@ Author: Iván López ([Webmasterbrak](https://www.informaticocoruna.com))
 Date: 14 de septiembre de 2021
 # Master Introducción a la Programación
 El presente máster de introducción a la programación está desarrollado siguiendo varios cursos y lenguajes distintos, es el resultado de la recopilación y estructuración de los contenidos que tenía dispersos. Espero que te sea de ayuda e inspiración.  
-Se realizarán los ejemplos básicos en Python, PHP, JavaScript y C
+Se realizarán los ejemplos básicos en Python, PHP, JavaScript y C ya que son los que conozco en mayor o menor medida.
 ### Contenidos del master de programación
-1º. Curso de introducción a la programación
+###### 1º. Curso de introducción a la programación.
+En este curso se verán las definiciones de programación, los tipo de lenguajes, y los conceptos básicos de la programación.
 - [¿Qué es la programación?](#Qué-es-la-programación)
 - [¿Qué es un lenguaje de programación?](#Qué-es-un-lenguaje-de-programación)
-- [Lenguajes de bajo y alto nivel](#Lenguajes-de-bajo-y-alto-nivel)
+- [Lenguajes de alto y bajo nivel](#Lenguajes-de-bajo-y-alto-nivel)
 - [Lenguajes interpretados y compilados](#Lenguajes-interpretados-y-compilados)
 - [Algoritmos](#Algoritmos)
 - [Metodologías en programación](#Metodologías-en-programación)
@@ -42,7 +43,7 @@ Los lenguajes de bajo nivel se compilan más rápido y se puede optimizar la mem
 Conjunto de reglas ordenadas, definidas y finitas que nos permiten realizar una actividad. Siempre tiene que tener un principio y un fin, pudiendo ser muy simples o muy complejos.
 
 ### Metodologías en programación
->Es una serie de pasos para llegar a un objetivo planteado, es un camino estructurado que nos ayudará a resolver cualquier problema.
+>Son una serie de pasos para llegar a un objetivo planteado, es un camino estructurado que nos ayudará a resolver cualquier problema.
 
 - Objetivo: El problema a resolver
 - Algoritmo: La solución al problema
