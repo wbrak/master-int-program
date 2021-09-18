@@ -15,7 +15,6 @@ En este curso se verán las definiciones de programación, los tipo de lenguajes
 - [Lenguajes interpretados y compilados](#Lenguajes-interpretados-y-compilados)
 - [Algoritmos](#Algoritmos)
 - [Metodologías en programación](#Metodologías-en-programación)
-- [¿Instalación del entorno de desarrollo?(A desarrollar?????)](#Instalación-del-entorno-de-desarrollo)
 - [Primer Hola Mundo](#Primer-Hola-Mundo)
 - [Constantes y variables](#Constantes-y-variables)
 - [Imprimir datos](#Imprimir-datos)
@@ -51,8 +50,6 @@ Son una serie de pasos para llegar a un objetivo planteado, es un camino estruct
 - `Algoritmo`: La solución al problema
 - `Testing`: Probar la solución al problema
 - `Deploy`: Desplegar el algoritmo
-
-### ¿Instalación del entorno de desarrollo?
 
 ### Primer Hola Mundo
 
