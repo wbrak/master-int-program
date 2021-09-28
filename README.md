@@ -15,6 +15,7 @@ En este curso se verán las definiciones de programación, los tipo de lenguajes
 - [Lenguajes interpretados y compilados](#Lenguajes-interpretados-y-compilados)
 - [Algoritmos](#Algoritmos)
 - [Metodologías en programación](#Metodologías-en-programación)
+- [Tipos de datos](#Tipos-de-datos)
 - [Primer Hola Mundo](#Primer-Hola-Mundo)
 - [Constantes y variables](#Constantes-y-variables)
 - [Imprimir datos](#Imprimir-datos)
@@ -44,7 +45,8 @@ Se pueden expresar de muchas maneras, incluyendo al **lenguaje natural, pseudoc�
 La descripción de un algoritmo usualmente se hece en tres niveles:
 - Descripción de alto nivel: Se establece el problema, se selecciona un modelo mátematico y se explica el algoritmo de manera verbal, posiblemente con ilustraciones y omitiendo detalles.  
 - Descripción formal: Se usa pseudocódigo para describir la secuencia de pasos que encuentran la solución.  
-- Implementación: Se muestra el algoritmo expresado en un lenguaje de programación específico o algún objeto capaz de llevar a cabo instrucciones.  
+- Implementación: Se muestra el algoritmo expresado en un lenguaje de programación específico o algún objeto capaz de llevar a cabo instrucciones.
+
 También es posible incluir un teorema (proposición cuya verdad se demuestra) que demuestre que el algoritmo es correcto, un análisis de complejidad o ambos.  
 
 **Ventajas del pseudocódigo sobre los diagramas de flujo**  
