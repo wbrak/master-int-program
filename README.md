@@ -71,6 +71,14 @@ Son una serie de pasos para llegar a un objetivo planteado, es un camino estruct
 - `Testing`: Probar la solución al problema
 - `Deploy`: Desplegar el algoritmo
 
+Programación estructurada: Es un paradigma de programación orientado a mejorar la claridad y el tiempo de desarrollo de un programa recurriendo únicamente a subrutinas y a tres estructuras básicas.
+- Secuencial: Ejecuta una a una todas las líneas de un proceso hasta finalizar.  
+  ![Diagrama secuencial](https://github.com/wbrak/master-intro-programing/diagramas/Secuencial.png "Diagrama secuencial")  
+- Condicional: Ejecuta un proceso dependiendo de una serie de condiciones que se puedan dar.
+- Iterativa: Un proceso puede ser ejecutado un número indeterminado de veces basado en condiciones.
+
+La intención clara de la programación estructurada es la de evitar el **código espagueti,** un lastre durante muchos años en el mundo de la programación que provocaba errores y código defectuoso implosible de mantener.
+
 ### Primer Hola Mundo
 ~~~~
 Codigo de prueba
