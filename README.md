@@ -75,9 +75,9 @@ Programación estructurada: Es un paradigma de programación orientado a mejorar
 - Secuencial: Ejecuta una a una todas las líneas de un proceso hasta finalizar.  
 [Diagrama secuencial](/diagramas/Secuencial.png "Diagrama secuencial")  
 - Condicional: Ejecuta un proceso dependiendo de una serie de condiciones que se puedan dar.  
-[Diagrama condicional](/diagramas/Condicional.png "Diagrama secuencial")
+[Diagrama condicional](/diagramas/Condicional.png "Diagrama condicional")
 - Iterativa: Un proceso puede ser ejecutado un número indeterminado de veces basado en condiciones.  
-[Diagrama iterativa](/diagramas/Secuencial.png "Diagrama secuencial")
+[Diagrama iterativo](/diagramas/Iterativa.png "Diagrama iterativo")
 
 La intención clara de la programación estructurada es la de evitar el **código espagueti,** un lastre durante muchos años en el mundo de la programación que provocaba errores y código defectuoso implosible de mantener.
 
