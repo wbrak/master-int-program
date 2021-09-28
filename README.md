@@ -73,8 +73,7 @@ Son una serie de pasos para llegar a un objetivo planteado, es un camino estruct
 
 Programación estructurada: Es un paradigma de programación orientado a mejorar la claridad y el tiempo de desarrollo de un programa recurriendo únicamente a subrutinas y a tres estructuras básicas.
 - Secuencial: Ejecuta una a una todas las líneas de un proceso hasta finalizar.  
-  [Diagrama secuencial]: https://github.com/wbrak/master-intro-programing/tree/feature/DesarrollarConceptosBasicos/diagramas/Secuencial.png "Diagrama secuencial"  
-  [Diagrama secuencial](https://github.com/wbrak/master-intro-programing/tree/feature/DesarrollarConceptosBasicos/diagramas/Secuencial.png "Diagrama secuencial")  
+  [Diagrama secuencial](/tree/feature/DesarrollarConceptosBasicos/diagramas/Secuencial.png "Diagrama secuencial")  
 - Condicional: Ejecuta un proceso dependiendo de una serie de condiciones que se puedan dar.
 - Iterativa: Un proceso puede ser ejecutado un número indeterminado de veces basado en condiciones.
 
