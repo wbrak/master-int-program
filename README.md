@@ -46,7 +46,22 @@ Existen algunos lenguajes como C, que se encuentran en un nivel medio, no son de
 Conjunto de reglas ordenadas, definidas y finitas que nos permiten realizar una actividad. Siempre tiene que tener un principio y un fin, pudiendo ser muy simples o muy complejos.  
 En la vida cotidiana, se emplean algoritmos frecuentemente para resolver problemas determinados.  
 Ej: Manuales de usuarios, muestran algoritmos para usar un aparato. En matemáticas son el algoritmo de la multiplicación, división o euclides que sirve para obtener el máximo común divisor de dos números enteros positivos.  
-**En términos de programación, un algoritmo es una secuencia de pasos lógicos que permiten solucionar un problema.**
+**En términos de programación, un algoritmo es una secuencia de pasos lógicos que permiten solucionar un problema.**  
+Se pueden expresar de muchas maneras, incluyendo al **lenguaje natural, pseudocódigo (código falso), diagramas de flujo y lenguajes de programación** entre otros.  
+La descripción de un algoritmo usualmente se hece en tres niveles:  
+
+- Descripción de alto nivel: Se establece el problema, se selecciona un modelo mátematico y se explica el algoritmo de manera verbal, posiblemente con ilustraciones y omitiendo detalles.  
+- Descripción formal: Se usa pseudocódigo para describir la secuencia de pasos que encuentran la solución.  
+- Implementación: Se muestra el algoritmo expresado en un lenguaje de programación específico o algún objeto capaz de llevar a cabo instrucciones.  
+
+También es posible incluir un teorema (proposición cuya verdad se demuestra) que demuestre que el algoritmo es correcto, un análisis de complejidad o ambos.  
+**Ventajas del pseudocódigo sobre los diagramas de flujo**  
+1. Ocupan mucho menos espacio en el desarrollo del problema.
+2. Permite representar de forma fácil operaciones repetitivas complejas.
+3. Es más sencilla la tarea de pasar de pseudocódigo a un lenguaje de programación formal.
+4. Si se siguen las reglas de identación se puede observar claramente los niveles en la estructura del programa.
+5. En los procesos de aprendizaje de los alumnos de programación, éstos están más cerca del paso siguiente (codificación en un lenguaje determinado), que los que se inician en esto con la modalidad de diagramas de flujo.
+6. Mejora la claridad de la solución de un problema.
 
 ### Metodologías en programación
 Son una serie de pasos para llegar a un objetivo planteado, es un camino estructurado que nos ayudará a resolver cualquier problema.
