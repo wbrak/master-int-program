@@ -24,10 +24,12 @@ En este curso se verán las definiciones de programación, los tipo de lenguajes
 - [Inicio](#Master-Introducción-a-la-Programación)
 
 ### ¿Qué es la programación?
-Es el proceso de diseñar, codificar, depurar y mantener el código fuente de un programa. Es el arte que nos permite reflejar en código las múltiples soluciones para resolver un problema mediante unos pasos o instrucciones ordenadas.
+Es el proceso de diseñar, codificar, depurar y mantener el código fuente de un programa.  
+Es el arte que nos permite reflejar en código las múltiples soluciones para resolver un problema mediante unos pasos o instrucciones ordenadas.
 
 ### ¿Qué es un lenguaje de programación?
-Es un lenguaje que contiene reglas específicas que nos permiten realizar o controlar ciertas acciones en una computadora. Es el puente de comunicación entre la máquina y la persona, después entra en juego el compilador o el intérprete que permite traducir lo escrito a lenguaje máquina (binario, 1 y 0).  
+Es un lenguaje que contiene reglas específicas que nos permiten realizar o controlar ciertas acciones en una computadora.  
+Es el puente de comunicación entre la máquina y la persona, después entra en juego el compilador o el intérprete que permite traducir lo escrito a lenguaje máquina (binario, 1 y 0).  
 Existen los lenguajes de bajo nivel y de alto nivel
 
 ### Lenguajes de alto y bajo nivel
