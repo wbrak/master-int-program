@@ -73,15 +73,15 @@ Programación estructurada: Es un paradigma de programación orientado a mejorar
 
 La intención clara de la programación estructurada es la de evitar el **código espagueti,** un lastre durante muchos años en el mundo de la programación que provocaba errores y código defectuoso imposible de mantener.
 ### Tipos de datos
-####¿Qué es un tipo de dato?  
+#### ¿Qué es un tipo de dato?  
 Un dominio, un conjunto.  
 Conjunto: colección de elementos no repetidos y no ordenados.  
 Ejemplos claros matemáticos: el dominio de números enteros, de números reales, de números pares...  
 Podemos definir un conjunto de datos por extensión(enumerando los elementos) o por comprensión(una expresión que defina la colección).  
-####¿Para que sirve un tipo de dato?  
+#### ¿Para que sirve un tipo de dato?  
 Para declarar expresiones, variables, funciones... y hacer comprobaciones de datos semánticas básicas en tiempo de compilación.  
 Un mayor nivel de seguridad/control/gestión se puede implementar mediante comprobaciones dentro de funciones.  
-####Tipos de datos básicos  
+#### Tipos de datos básicos  
 Cada lenguaje de programación tiene sus propios tipos de datos.  
 En C tenemos predefinidos los siguientes:
 - int: Cantidad entera
