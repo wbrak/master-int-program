@@ -3,12 +3,12 @@ Author: Iván López ([Webmasterbrak](https://www.informaticocoruna.com))
 Date: 14 de septiembre de 2021
 # Master Introducción a la Programación
 El presente máster de introducción a la programación está desarrollado siguiendo varios cursos y lenguajes distintos, es el resultado de la recopilación y estructuración de los contenidos que tenía dispersos. Espero que te sea de ayuda e inspiración.  
-Se realizarán los ejemplos básicos en Python, PHP, JavaScript y C ya que son los que conozco en mayor o menor medida.  
+Se realizarán los ejemplos básicos en Python, PHP, JavaScript y C, ya que son los que conozco en mayor o menor medida.  
 >Al ser varios los lenguajes y sistemas operativos que se pueden usar en está guía, no definiremos áqui los entornos de desarrollo, por diversas razones uso tanto Linux como Windows en los desarrollos.  
 Puedes encontrar los distintos entornos para cada lenguaje en el documento [ENTORNOS.md](https://github.com/wbrak/master-intro-programing/blob/main/ENTORNOS.md) (en construcción) de este repositorio.
 ### Contenidos del master de programación
 #### 1º. Curso de introducción a la programación.
-En este curso se verán las definiciones de programación, los tipo de lenguajes, y los conceptos básicos de la programación.
+En este curso se verán las definiciones de programación, los tipos de lenguajes, y los conceptos básicos de la programación.
 - [¿Qué es la programación?](#Qué-es-la-programación)
 - [¿Qué es un lenguaje de programación?](#Qué-es-un-lenguaje-de-programación)
 - [Lenguajes de alto y bajo nivel](#Lenguajes-de-bajo-y-alto-nivel)
@@ -16,10 +16,10 @@ En este curso se verán las definiciones de programación, los tipo de lenguajes
 - [Algoritmos](#Algoritmos)
 - [Metodologías en programación](#Metodologías-en-programación)
 - [Tipos de datos](#Tipos-de-datos)
-- [Primer Hola Mundo](#Primer-Hola-Mundo)
 - [Constantes y variables](#Constantes-y-variables)
 - [Imprimir datos](#Imprimir-datos)
 - [Leer datos](#Leer-datos)
+- [Primer Hola Mundo](#Primer-Hola-Mundo)
 #### 2º. Curso de introducción a los algoritmos
 - [Inicio](#Master-Introducción-a-la-Programación)
 ### ¿Qué es la programación?
@@ -34,16 +34,16 @@ Los lenguajes de alto nivel son más fácilmente entendibles por las personas, s
 Los lenguajes de bajo nivel se compilan más rápido y se puede optimizar la memoria, el más conocido es ensamblador y se encargan de traducir a código binario.
 Existen algunos lenguajes como C, que se encuentran en un nivel medio, no son de bajo nivel, ya que su sintaxis es legible y se puede manejar de forma fácil el hardware de un equipo y permite escribir código optimizado. Es por esto que aún se usa para crear cualquier tipo de software.
 ### Lenguajes interpretados y compilados
-- `Interpretados`: Hacen uso de un programa llamado interprete para traducir lo escrito al lenguaje maquina además de verificar la sintaxis y estructura del codigo para su correcta ejecución, leé lina por linea y para la ejecución si encuentra errores.
-- `Compilados`: Hacen uso de un programa llamado complilador para traducir lo escrito al lenguaje maquina además de verificar la sintaxis y estructura del codigo para su correcta ejecución, leé todo el codigo y si está correcto lo compila en un archivo ejecutable.
+- `Interpretados`: Hacen uso de un programa llamado intérprete para traducir lo escrito al lenguaje máquina además de verificar la sintaxis y estructura del código para su correcta ejecución, lee línea por línea y para la ejecución si encuentra errores.
+- `Compilados`: Hacen uso de un programa llamado compilador para traducir lo escrito al lenguaje máquina además de verificar la sintaxis y estructura del código para su correcta ejecución, lee todo el código y si está correcto lo compila en un archivo ejecutable.
 ### Algoritmos
 Conjunto de reglas ordenadas, definidas y finitas que nos permiten realizar una actividad. Siempre tiene que tener un principio y un fin, pudiendo ser muy simples o muy complejos.  
 En la vida cotidiana, se emplean algoritmos frecuentemente para resolver problemas determinados.  
-Ej: Manuales de usuarios, muestran algoritmos para usar un aparato. En matemáticas son el algoritmo de la multiplicación, división o euclides que sirve para obtener el máximo común divisor de dos números enteros positivos.  
+Ej. Manuales de usuarios, muestran algoritmos para usar un aparato. En matemáticas son el algoritmo de la multiplicación, división o Euclides que sirve para obtener el máximo común divisor de dos números enteros positivos.  
 **En términos de programación, un algoritmo es una secuencia de pasos lógicos que permiten solucionar un problema.**  
 Se pueden expresar de muchas maneras, incluyendo al **lenguaje natural, pseudocódigo (código falso), diagramas de flujo y lenguajes de programación** entre otros.  
-La descripción de un algoritmo usualmente se hece en tres niveles:
-- Descripción de alto nivel: Se establece el problema, se selecciona un modelo mátematico y se explica el algoritmo de manera verbal, posiblemente con ilustraciones y omitiendo detalles.  
+La descripción de un algoritmo usualmente se hace en tres niveles:
+- Descripción de alto nivel: Se establece el problema, se selecciona un modelo matemático y se explica el algoritmo de manera verbal, posiblemente con ilustraciones y omitiendo detalles.  
 - Descripción formal: Se usa pseudocódigo para describir la secuencia de pasos que encuentran la solución.  
 - Implementación: Se muestra el algoritmo expresado en un lenguaje de programación específico o algún objeto capaz de llevar a cabo instrucciones.
 
@@ -53,8 +53,8 @@ También es posible incluir un teorema (proposición cuya verdad se demuestra) q
 1. Ocupan mucho menos espacio en el desarrollo del problema.
 2. Permite representar de forma fácil operaciones repetitivas complejas.
 3. Es más sencilla la tarea de pasar de pseudocódigo a un lenguaje de programación formal.
-4. Si se siguen las reglas de identación se puede observar claramente los niveles en la estructura del programa.
-5. En los procesos de aprendizaje de los alumnos de programación, éstos están más cerca del paso siguiente (codificación en un lenguaje determinado), que los que se inician en esto con la modalidad de diagramas de flujo.
+4. Si se siguen las reglas de indentación se puede observar claramente los niveles en la estructura del programa.
+5. En los procesos de aprendizaje de los alumnos de programación, estos están más cerca del paso siguiente (codificación en un lenguaje determinado), que los que se inician en esto con la modalidad de diagramas de flujo.
 6. Mejora la claridad de la solución de un problema.
 ### Metodologías en programación
 Son una serie de pasos para llegar a un objetivo planteado, es un camino estructurado que nos ayudará a resolver cualquier problema.
@@ -71,18 +71,47 @@ Programación estructurada: Es un paradigma de programación orientado a mejorar
 - Iterativa: Un proceso puede ser ejecutado un número indeterminado de veces basado en condiciones.  
 [Diagrama iterativo](/diagramas/Iterativa.png "Diagrama iterativo")
 
-La intención clara de la programación estructurada es la de evitar el **código espagueti,** un lastre durante muchos años en el mundo de la programación que provocaba errores y código defectuoso implosible de mantener.
+La intención clara de la programación estructurada es la de evitar el **código espagueti,** un lastre durante muchos años en el mundo de la programación que provocaba errores y código defectuoso imposible de mantener.
 ### Tipos de datos
-### Primer Hola Mundo
-~~~~
-Codigo de prueba
-~~~~
+#### ¿Qué es un tipo de dato?  
+Un dominio, un conjunto.  
+Conjunto: colección de elementos no repetidos y no ordenados.  
+Ejemplos claros matemáticos: el dominio de números enteros, de números reales, de números pares...  
+Podemos definir un conjunto de datos por extensión(enumerando los elementos) o por comprensión(una expresión que defina la colección).  
+#### ¿Para que sirve un tipo de dato?  
+Para declarar expresiones, variables, funciones... y hacer comprobaciones de datos semánticas básicas en tiempo de compilación.  
+Un mayor nivel de seguridad/control/gestión se puede implementar mediante comprobaciones dentro de funciones.  
+#### Tipos de datos básicos  
+Cada lenguaje de programación tiene sus propios tipos de datos.  
+En C tenemos predefinidos los siguientes:
+- int: Cantidad entera
+- char: Carácter
+- float: Almacena valores reales en punto flotante
+- double: Almacena valores reales en doble precisión
+- void: Se utiliza para definir una función que no devuelve ningún valor o declarar punteros genéricos  
 
+En PHP tenemos los tipos de datos escalares:
+- boolean: true o false
+- integer: Cantidad entera
+- float: Almacena valores reales en doble precisión
+- string: Cadena de caracteres  
+
+Los tipos de datos compuestos:
+- Array: Almacena diferentes valores en una variable
+- Object: Agrupa los datos de una clase  
+
+Y los tipos de datos especiales:
+- Null: Representa una variable sin valor asignado
 ### Constantes y variables
 
 ### Imprimir datos
 
 ### Leer datos
+
+### Primer Hola Mundo
+~~~~
+Código de prueba
+~~~~
 
 ~~~~
  Markdown
