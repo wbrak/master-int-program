@@ -51,7 +51,7 @@ La descripción de un algoritmo usualmente se hece en tres niveles:
 
 También es posible incluir un teorema (proposición cuya verdad se demuestra) que demuestre que el algoritmo es correcto, un análisis de complejidad o ambos.  
 
-![Diagrama secuencial](/diagramas/Secuencial.png "Diagrama secuencial")
+![Diagrama condicional](/diagramas/Condicional.png "Diagrama condicional")  
 
 **Ventajas del pseudocódigo sobre los diagramas de flujo**  
 1. Ocupan mucho menos espacio en el desarrollo del problema.
