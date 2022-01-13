@@ -38,12 +38,22 @@ Existen algunos lenguajes como C, que se encuentran en un nivel medio, no son de
 - `Compilados`: Hacen uso de un programa llamado compilador para traducir lo escrito al lenguaje máquina además de verificar la sintaxis y estructura del código para su correcta ejecución, lee todo el código y si está correcto lo compila en un archivo ejecutable.
 ### Algoritmos
 Conjunto de reglas ordenadas, definidas y finitas que nos permiten realizar una actividad. Siempre tiene que tener un principio y un fin, pudiendo ser muy simples o muy complejos.  
+En matemáticas, lógica, ciencias de la computación y disciplinas relacionadas, un algotitmo es un conjunto de instrucciones o reglas definidas y no ambiguas, ordenadas y finitas que permiten, típicamente, solucionar un problema, realizar un cómputo, procesar datos y llevar a cabo otras tareas o actividades.  
+Dado un estado inicial y una entrada, siguiendo los pasos sucesivos se llega a un estado final y se obtiene una solución.  
 En la vida cotidiana, se emplean algoritmos frecuentemente para resolver problemas determinados.  
+<<<<<<< HEAD
+Ej: Manuales de usuarios, muestran algoritmos para usar un aparato. En matemáticas son el algoritmo de la multiplicación, para calcular el producto, el algoritmo de la división para calcular el cociente de dos números, el algoritmo de euclides para obtener el máximo común divisor de dos números enteros positivos, o el método de Gauss para resolver un sistema de ecuaciones lineales.  
+**En términos de programación, un algoritmo es una secuencia de pasos lógicos que permiten solucionar un problema.**  
+Los algoritmos pueden ser expresados de muchas maneras, incluyendo al **lenguaje natural, pseudocódigo (código falso), diagramas de flujo y lenguajes de programación** entre otros. Las descripciones en lenguaje natural tienden a ser ambiguas y extensas. El usar pseudocódigo y diagramas de flujo evita muchas ambigüedades del lenguaje natural. Dichas expresiones son formas más estructuradas para representar algoritmos; no obstante, se mantienen independientes de un lenguaje de programación específico.  
+La descripción de un algoritmo usualmente se hece en tres niveles:
+- Descripción de alto nivel: Se establece el problema, se selecciona un modelo mátematico y se explica el algoritmo de manera verbal, posiblemente con ilustraciones y omitiendo detalles.  
+=======
 Ej. Manuales de usuarios, muestran algoritmos para usar un aparato. En matemáticas son el algoritmo de la multiplicación, división o Euclides que sirve para obtener el máximo común divisor de dos números enteros positivos.  
 **En términos de programación, un algoritmo es una secuencia de pasos lógicos que permiten solucionar un problema.**  
 Se pueden expresar de muchas maneras, incluyendo al **lenguaje natural, pseudocódigo (código falso), diagramas de flujo y lenguajes de programación** entre otros.  
 La descripción de un algoritmo usualmente se hace en tres niveles:
 - Descripción de alto nivel: Se establece el problema, se selecciona un modelo matemático y se explica el algoritmo de manera verbal, posiblemente con ilustraciones y omitiendo detalles.  
+>>>>>>> release/Repaso
 - Descripción formal: Se usa pseudocódigo para describir la secuencia de pasos que encuentran la solución.  
 - Implementación: Se muestra el algoritmo expresado en un lenguaje de programación específico o algún objeto capaz de llevar a cabo instrucciones.
 
