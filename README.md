@@ -38,6 +38,8 @@ Existen algunos lenguajes como C, que se encuentran en un nivel medio, no son de
 - `Compilados`: Hacen uso de un programa llamado complilador para traducir lo escrito al lenguaje maquina además de verificar la sintaxis y estructura del codigo para su correcta ejecución, leé todo el codigo y si está correcto lo compila en un archivo ejecutable.
 ### Algoritmos
 Conjunto de reglas ordenadas, definidas y finitas que nos permiten realizar una actividad. Siempre tiene que tener un principio y un fin, pudiendo ser muy simples o muy complejos.  
+En matemáticas, lógica, ciencias de la computación y disciplinas relacionadas, un algotitmo es un conjunto de instrucciones o reglas definidas y no ambiguas, ordenadas y finitas que permiten, típicamente, solucionar un problema, realizar un cómputo, procesar datos y llevar a cabo otras tareas o actividades. 
+Dado un estado inicial y una entrada, siguiendo los pasos sucesivos se llega a un estado final y se obtiene una solución.
 En la vida cotidiana, se emplean algoritmos frecuentemente para resolver problemas determinados.  
 Ej: Manuales de usuarios, muestran algoritmos para usar un aparato. En matemáticas son el algoritmo de la multiplicación, división o euclides que sirve para obtener el máximo común divisor de dos números enteros positivos.  
 **En términos de programación, un algoritmo es una secuencia de pasos lógicos que permiten solucionar un problema.**  
