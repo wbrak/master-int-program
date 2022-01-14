@@ -51,6 +51,7 @@ La descripción de un algoritmo usualmente se hece en tres niveles:
 
 También es posible incluir un teorema (proposición cuya verdad se demuestra) que demuestre que el algoritmo es correcto, un análisis de complejidad o ambos.  
 
+**Algoritmo con diagrama de flujo**  
 ![Diagrama condicional](/diagramas/Condicional.png "Diagrama condicional")  
 
 **Ventajas del pseudocódigo sobre los diagramas de flujo**  
