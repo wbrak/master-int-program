@@ -106,7 +106,8 @@ Los lenguajes con datos dinamica o debilmente tipados se pueden cambiar ya el le
 - double: Almacena valores reales en doble precisión
 - void: Se utiliza para definir una función que no devuelve ningún valor o declarar punteros genéricos  
 
-#### En PHP tenemos los tipos de datos escalares:
+#### En PHP tenemos los siguientes tipos de datos:
+Los tipos de datos escalares:
 - boolean: true o false
 - integer: Cantidad entera
 - float: Almacena valores reales en doble precisión
