@@ -6,8 +6,7 @@ El presente máster de introducción a la programación está desarrollado sigui
 Se realizarán los ejemplos básicos en Python, PHP, JavaScript y C, ya que son los que conozco en mayor o menor medida.  
 >Al ser varios los lenguajes y sistemas operativos que se pueden usar en está guía, no definiremos áqui los entornos de desarrollo, por diversas razones uso tanto Linux como Windows en los desarrollos.  
 Puedes encontrar los distintos entornos para cada lenguaje en el documento [ENTORNOS.md](https://github.com/wbrak/master-intro-programing/blob/main/ENTORNOS.md) (en construcción) de este repositorio.
-### Contenidos del master de programación
-#### 1º. Curso de introducción a la programación.
+## Contenidos del master de programación
 En este curso se verán las definiciones de programación, los tipos de lenguajes, y los conceptos básicos de la programación.
 - [¿Qué es la programación?](#Qué-es-la-programación)
 - [¿Qué es un lenguaje de programación?](#Qué-es-un-lenguaje-de-programación)
@@ -20,8 +19,7 @@ En este curso se verán las definiciones de programación, los tipos de lenguaje
 - [Imprimir datos](#Imprimir-datos)
 - [Leer datos](#Leer-datos)
 - [Primer Hola Mundo](#Primer-Hola-Mundo)
-#### 2º. Curso de introducción a los algoritmos
-- [Inicio](#Master-Introducción-a-la-Programación)
+
 ### ¿Qué es la programación?
 Es el proceso de diseñar, codificar, depurar y mantener el código fuente de un programa.  
 Es el arte que nos permite reflejar en código las múltiples soluciones para resolver un problema mediante unos pasos o instrucciones ordenadas.
@@ -101,14 +99,14 @@ Cada lenguaje de programación tiene sus propios tipos de datos y los maneja de 
 Los lenguajes con datos estaticos son fuertemente tipados ya que no permiten cambiar el tipo de dato asignado salvo que se realice una conversión.  
 Los lenguajes con datos dinamica o debilmente tipados se pueden cambiar ya el lenguaje detecta que tipo de dato es y lo convierte por si solo.
  
-##### En C tenemos predefinidos los siguientes:
+#### En C tenemos predefinidos los siguientes:
 - int: Cantidad entera
 - char: Carácter
 - float: Almacena valores reales en punto flotante
 - double: Almacena valores reales en doble precisión
 - void: Se utiliza para definir una función que no devuelve ningún valor o declarar punteros genéricos  
 
-##### En PHP tenemos los tipos de datos escalares:
+#### En PHP tenemos los tipos de datos escalares:
 - boolean: true o false
 - integer: Cantidad entera
 - float: Almacena valores reales en doble precisión
