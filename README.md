@@ -119,7 +119,11 @@ Los tipos de datos compuestos:
 
 Y los tipos de datos especiales:
 - Null: Representa una variable sin valor asignado
-### Constantes y variables
+### Variables y constantes
+En programación, una variable está formada por un espacio en el almacenaje (memoria principal de un ordenador) y un nombre simbólico (un identificador) que está asociado a dicho espacio. Ese espacio contiene una cantidad de información conocida o desconocida, es decir un valor.  
+El nombre de la variable es la forma usual de referirse al valor almacenado: esta separación entre nombre y contenido permite que el nombre sea usado independientemente de la información exacta que representa. El identificador, en el código fuente de la computadora puede estar ligado a un valor durante el tiempo de ejecución y el valor de la variable puede por lo tanto cambiar durante el curso de la ejecución del programa.  
+En computación una variable puede ser utilizada en un proceso repetitivo: puede asignársele un valor en un sitio, ser luego utilizada en otro, más adelante reasignársele un nuevo valor para más tarde utilizarla de la misma manera. Procedimientos de este tipo son conocidos con el nombre de iteración. En programación de computadoras, a las variables, frecuentemente se le asignan nombre largos para hacerlas relativamente descriptivas para su uso.  
+Las constantes son igual que las variables pero ocupan menos espacio en la memoria ya que no tienen la caracteristica de poder cambiar su valor.
 
 ### Imprimir datos
 
