@@ -15,7 +15,7 @@ En este curso se verán las definiciones de programación, los tipos de lenguaje
 - [Algoritmos](#Algoritmos)
 - [Metodologías en programación](#Metodologías-en-programación)
 - [Tipos de datos](#Tipos-de-datos)
-- [Variables y constantes](#Variables y constantes)
+- [Variables y constantes](#Variables-y-constantes)
 - [Imprimir datos](#Imprimir-datos)
 - [Leer datos](#Leer-datos)
 - [Primer Hola Mundo](#Primer-Hola-Mundo)
