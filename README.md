@@ -86,18 +86,29 @@ Conjunto: colección de elementos no repetidos y no ordenados.
 Ejemplos claros matemáticos: el dominio de números enteros, de números reales, de números pares...  
 Podemos definir un conjunto de datos por extensión(enumerando los elementos) o por comprensión(una expresión que defina la colección).  
 #### ¿Para que sirve un tipo de dato?  
+Sirven para especificar el tamaño y el tipo de dato que se puede guardar en una variable.  
 Para declarar expresiones, variables, funciones... y hacer comprobaciones de datos semánticas básicas en tiempo de compilación.  
 Un mayor nivel de seguridad/control/gestión se puede implementar mediante comprobaciones dentro de funciones.  
-#### Tipos de datos básicos  
-Cada lenguaje de programación tiene sus propios tipos de datos.  
-En C tenemos predefinidos los siguientes:
+#### Tipos de datos básicos
+Existen los datos primitivos y los no primitivos.
+- Los datos primitivos son los predefinidos por el lenguaje en cuestión.
+- Los no primitivos son los definidos por el programador para cumplir con una tarea especifica.
+
+Los tipos de datos primitivos y las palabras reservadas del lenguaje no se pueden usar como variables ni como datos no primitivos.
+
+Cada lenguaje de programación tiene sus propios tipos de datos y los maneja de forma distinta, en un lenguaje pueden ser estatica o dinamicamente tipados o tambien pueden ser fuerte o debilmente tipados. 
+
+Los lenguajes con datos estaticos son fuertemente tipados ya que no permiten cambiar el tipo de dato asignado salvo que se realice una conversión.  
+Los lenguajes con datos dinamica o debilmente tipados se pueden cambiar ya el lenguaje detecta que tipo de dato es y lo convierte por si solo.
+ 
+##### En C tenemos predefinidos los siguientes:
 - int: Cantidad entera
 - char: Carácter
 - float: Almacena valores reales en punto flotante
 - double: Almacena valores reales en doble precisión
 - void: Se utiliza para definir una función que no devuelve ningún valor o declarar punteros genéricos  
 
-En PHP tenemos los tipos de datos escalares:
+##### En PHP tenemos los tipos de datos escalares:
 - boolean: true o false
 - integer: Cantidad entera
 - float: Almacena valores reales en doble precisión
