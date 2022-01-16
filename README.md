@@ -8,8 +8,8 @@ Se realizarán los ejemplos básicos en Python, PHP, JavaScript y C, ya que son 
 Puedes encontrar los distintos entornos para cada lenguaje en el documento [ENTORNOS.md](https://github.com/wbrak/master-intro-programing/blob/main/ENTORNOS.md) (en construcción) de este repositorio.
 ## Contenidos del master de programación
 En este curso se verán las definiciones de programación, los tipos de lenguajes, y los conceptos básicos de la programación.
-- [¿Qué es la programación?](#¿Qué-es-la-programación?)
-- [¿Qué es un lenguaje de programación?](#¿Qué-es-un-lenguaje-de-programación?)
+- [¿Qué es la programación?](#Qué-es-la-programación)
+- [¿Qué es un lenguaje de programación?](#Qué-es-un-lenguaje-de-programación)
 - [Lenguajes de alto y bajo nivel](#Lenguajes-de-alto-y-bajo-nivel)
 - [Lenguajes interpretados y compilados](#Lenguajes-interpretados-y-compilados)
 - [Algoritmos](#Algoritmos)
